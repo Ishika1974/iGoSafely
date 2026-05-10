@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501586800340",
+    "project_id": "igosafely-b8150",
+    "storage_bucket": "igosafely-b8150.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501586800340:android:4e808207d592dd9b419541",
+        "android_client_info": {
+          "package_name": "com.example.igosafely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCKnyq_hM-LOk-kTq8dP0PwkFRIMIeFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
